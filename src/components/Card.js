@@ -1,6 +1,6 @@
-import React from 'react';
-import {View, StyleSheet, Platform} from 'react-native';
-import {COLORS} from '../common';
+import React from "react";
+import { View, StyleSheet, Platform } from "react-native";
+import { COLORS } from "../common";
 const Card = (props) => {
   return (
     <View style={[styles.ContainerStyle, props.cardStyle]}>
@@ -15,12 +15,12 @@ const styles = StyleSheet.create({
       ios: {
         shadowColor: COLORS.black,
         shadowOpacity: 0.16,
-        shadowOffset: {width: 0, height: 1},
+        shadowOffset: { width: 0, height: 1 },
       },
       android: {
-        elevation: 3,
+        elevation: 0,
       },
     }),
   },
 });
-export {Card};
+export { Card };
