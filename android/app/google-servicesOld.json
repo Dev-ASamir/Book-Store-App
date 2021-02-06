@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901889768192",
+    "firebase_url": "https://haraka-c8c62.firebaseio.com",
+    "project_id": "haraka-c8c62",
+    "storage_bucket": "haraka-c8c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901889768192:android:68b23172f5ff1aaf3f11e5",
+        "android_client_info": {
+          "package_name": "com.harakadevelop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901889768192-dp9o4f4msvu33iodrvme5fc1k9kq8c10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2czOaDNVVWXnf68FNBRyOItZoCViTikY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901889768192-dp9o4f4msvu33iodrvme5fc1k9kq8c10.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901889768192-7nlg0kfp2apk8cs1bueikc5l2ueoibms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Haraka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

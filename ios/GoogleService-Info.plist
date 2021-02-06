@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>901889768192-7nlg0kfp2apk8cs1bueikc5l2ueoibms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.901889768192-7nlg0kfp2apk8cs1bueikc5l2ueoibms</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMnXvRhHYjyy1Zm-dHVY3zweENpsJdwFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>901889768192</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Haraka</string>
+	<key>PROJECT_ID</key>
+	<string>haraka-c8c62</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haraka-c8c62.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:901889768192:ios:6529d3cfc33fe9ac3f11e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://haraka-c8c62.firebaseio.com</string>
+</dict>
+</plist>
